@@ -1,9 +1,9 @@
 ---
-title: "Rural Financial Scale, Labor Transfer, and Urban-Rural Income Gap: A Spatial Econometric Analysis"
+title: "Rural Finance, Labor Transfer, and Urban-Rural Income Gap"
 collection: publications
 category: manuscripts
 permalink: /publication/rural-finance-income-gap
-excerpt: 'Double degree thesis supervised by Prof. Meishan Jiang.'
+excerpt: ''
 date: 2023-04-01
 venue: 'Double Degree Thesis, South China Agricultural University'
 ---

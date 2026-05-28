@@ -1,9 +1,9 @@
 ---
-title: "Determinants of eHealth Literacy and Their Interrelationships"
+title: "Determinants of eHealth Literacy"
 collection: publications
 category: manuscripts
 permalink: /publication/ehealth-literacy
-excerpt: 'Undergraduate thesis supervised by Prof. Weizhang Liu.'
+excerpt: ''
 date: 2024-07-01
 venue: 'Undergraduate Thesis, South China Agricultural University'
 ---

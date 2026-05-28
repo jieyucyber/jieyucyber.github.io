@@ -11,54 +11,67 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Sc. in Information Science**, Nanjing University, 2025–present
+  * School of Information Management
+* **B.M. in Information Management & Information Systems**, South China Agricultural University, 2020–2024
+  * GPA: 3.94/5.0
+  * Key courses: Statistics (94.2), Management Information Systems (93), Java OOP (96.2), Python Programming (92.5), Database Systems (87.5), Information Resource Management (83), Econometrics (87), Big Data Management (85.5), Web Front-End Development (84)
+* **B.A. (Double Degree) in Finance**, South China Agricultural University, 2020–2024
+  * GPA: 3.72/5.0
 
-Work experience
+Honors & Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Outstanding Communist Youth League Member
+* Second Prize, University-Level Mathematical Modeling Competition (2023)
+* Provincial-Level Innovation & Entrepreneurship Competition — Project successfully completed (2023)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* **Undergraduate Thesis** — Determinants of eHealth Literacy and Their Interrelationships (2023–2024)
+  * Advisor: Prof. Weizhang Liu
+  * Applied Social Cognitive Theory and eHealth Comprehensive Usage Model; analyzed CGSS2021 data
+  * Conducted stepwise nested regression, Sobel mediation testing, and heterogeneity analysis using Stata
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Double Degree Thesis** — Rural Financial Scale, Labor Transfer, and Urban-Rural Income Gap (2022–2023)
+  * Advisor: Prof. Meishan Jiang
+  * Built 30-province panel data (2009–2021); employed Spatial Durbin Model
+  * Performed Moran's I spatial autocorrelation tests and Theil index robustness checks
+
+* **Innovation & Entrepreneurship Competition** — Factors Influencing College Students' Willingness to Pay for Online Learning Resources (2022–2023)
+  * Provincial-level project; core member responsible for data analysis
+  * Designed Likert-scale survey (N=342); applied SPSS and SEM (Amos) for path analysis
+
+* **Mathematical Modeling Competition** — Exploring Information Cocoon Factors Using LDA and AHP (2023)
+  * Core member; earned Second Prize
+  * Applied LDA topic modeling for text mining; contributed to AHP weight calculation and paper writing
+
+Work & Teaching Experience
+======
+* **Mathematics Teacher & Class Supervisor**, Kaiyuan Senior High School, Nanyang, Henan (2024.07–2024.10)
+  * Taught analytic geometry for Grade 11; led subject-area teaching and research
+  * Managed class operations and provided student mentorship and counseling
+
+Volunteer & Service
+======
+* **Guangzhou Library Volunteer**, SCAU Volunteer Association (2020.10–2021.12)
+  * Organized and trained volunteers; assisted with library services
+  * Contributed to children's science outreach and WeChat public account content
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming & Data Analysis**: Python, Java, SPSS, Stata, Amos
+* **Quantitative Methods**: Regression analysis, structural equation modeling, spatial econometrics, topic modeling (LDA), AHP
+* **Tools**: Microsoft Office Suite, Git
+* **Languages**: Chinese (native), English (CET-6)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

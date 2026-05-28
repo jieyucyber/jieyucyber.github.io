@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruby --version)",
+      "Bash(bundle --version)",
+      "Bash(bundle install *)",
+      "Bash(start https://jieyucyber.github.io)",
+      "Bash(gh repo *)",
+      "Bash(curl -s https://api.github.com/repos/jieyucyber/jieyucyber.github.io/pages)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "WebFetch(domain:jieyucyber.github.io)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://jieyucyber.github.io)",
+      "Bash(curl -s https://jieyucyber.github.io)"
+    ]
+  }
+}

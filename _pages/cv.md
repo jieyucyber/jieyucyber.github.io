@@ -47,7 +47,7 @@ Research Experience
 
 Work & Teaching Experience
 ======
-* **Mathematics Teacher & Class Supervisor**, Kaiyuan Senior High School, Nanyang, Henan (2024.07–2024.10)
+* **Mathematics Teacher & Class Supervisor**, Senior High School (2024.07–2024.10)
   * Taught analytic geometry for Grade 11; led subject-area teaching and research
   * Managed class operations and provided student mentorship and counseling
 
@@ -63,12 +63,6 @@ Skills
 * **Quantitative Methods**: Regression analysis, structural equation modeling, spatial econometrics, topic modeling (LDA), AHP
 * **Tools**: Microsoft Office Suite, Git
 * **Languages**: Chinese (native), English (CET-6)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Teaching
 ======

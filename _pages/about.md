@@ -11,12 +11,6 @@ I earned a Bachelor of Management in Information Management and Information Syst
 
 My research interests lie in user behavior mining, health information dissemination, and computational social science. I use computational and data-driven methods — including statistical modeling, text mining, and econometric analysis — to study user behavior patterns in information environments and examine their intersections with health communication and social computing.
 
-## Research Highlights
-
-- **Health Information Behavior**: Investigated the determinants of eHealth literacy using CGSS2021 survey data, applying stepwise nested regression and Sobel mediation testing to uncover the role of active learning and cognitive ability.
-- **Information Cocoon & Text Mining**: Applied LDA topic modeling and AHP to explore factors contributing to information cocoons, gaining hands-on experience in text preprocessing and topic extraction.
-- **Consumer Behavior in Digital Learning**: Designed a Likert-scale survey (N=342) and employed structural equation modeling (SEM) to examine factors influencing college students' willingness to pay for online learning resources.
-
 ## Education
 
 - **M.Sc. in Information Science**, Nanjing University, 2025–present

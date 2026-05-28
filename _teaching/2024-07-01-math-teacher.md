@@ -3,12 +3,12 @@ title: "Mathematics Teacher & Class Supervisor"
 collection: teaching
 type: "High School"
 permalink: /teaching/math-teacher
-venue: "Kaiyuan Senior High School, Nanyang, Henan"
+venue: "Senior High School"
 date: 2024-07-01
 location: "Nanyang, China"
 ---
 
-Served as a mathematics teacher and class supervisor at Kaiyuan Senior High School in Nanyang, Henan Province.
+Served as a mathematics teacher and class supervisor at a senior high school.
 
 **Responsibilities:**
 - Delivered high school mathematics courses with a focus on analytic geometry for Grade 11 students

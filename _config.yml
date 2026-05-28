@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "jieyucyber"
+title                    : "Jie Yu"
 title_separator          : "-"
-name                     : &name "jieyucyber"
-description              : &description "jieyucyber's personal homepage"
+name                     : &name "Jie Yu"
+description              : &description "Jie Yu's personal homepage"
 url                      : https://jieyucyber.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jieyucyber/jieyucyber.github.io"
@@ -23,9 +23,9 @@ repository               : "jieyucyber/jieyucyber.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "jieyucyber"
+  name             : "Jie Yu"
   pronouns         : # example: "she/her"
-  bio              : "Personal homepage"
+  bio              : "a student"
   location         : "China"
   employer         : ""
   uri              : # URL
